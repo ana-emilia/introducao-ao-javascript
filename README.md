@@ -1,1 +1,1 @@
-# intruducao-ao-javascript
+# introducao-ao-javascript
